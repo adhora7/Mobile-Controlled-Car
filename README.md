@@ -6,7 +6,7 @@ This project demonstrates a **Mobile Controlled Rover** using **Arduino** and a 
 ## Components Required:
 ### <h4>Components required in this module:</h4>
 <ol>
-  <li><p>Arduino (e.g., Arduino Uno)</p></li>
+  <li><p>Arduino (Arduino Uno)</p></li>
   <li><p>Motor Shield L293D</p></li>
   <li><p>Chassis Set</p></li>
   <li><p>Jumper Wires</p></li>
