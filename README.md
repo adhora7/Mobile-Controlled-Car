@@ -1,4 +1,4 @@
-# Mobile Controlled Rover
+# Mobile Controlled Car
 
 **Project Overview**:
 This project demonstrates a **Mobile Controlled Rover** using **Arduino** and a **Bluetooth module (HC-05)**. The car is controlled remotely using a mobile app developed with **MIT App Inventor**. The Bluetooth module communicates with the Arduino to control the movement of the car through the **L293D motor shield**. The car can move forward, backward, and turn left or right based on the commands sent via Bluetooth.
