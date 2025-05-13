@@ -16,7 +16,7 @@ This project demonstrates a **Mobile Controlled Rover** using **Arduino** and a 
 </ol>
 
 ### System Diagram:
-![Mobile Controlled Rover](./images/car_image.jpg)
+![Mobile Controlled Rover](./Project_Photo_and_Video/Car.jpg)
 
 **Figure 1**: The system setup with the Arduino, motor shield, Bluetooth module, and chassis.
 
